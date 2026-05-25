@@ -1,2 +1,1 @@
-_
 ![NPTEL-CERTIFICATE](Nptel%202025.png)
