@@ -1,2 +1,3 @@
 # certificate
-NPTEL Results
+
+![Certificate](NPTEL%20CERTIFICATE.jpeg)
